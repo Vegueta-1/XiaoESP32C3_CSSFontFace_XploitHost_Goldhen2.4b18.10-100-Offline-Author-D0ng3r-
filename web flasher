@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>XIAO ESP32-C3 CSSFontFace Exploit Web Flasher</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+  <h1>XIAO ESP32-C3 CSSFontFace Exploit Web Flasher</h1>
+  <p>
+    Plug in your XIAO ESP32-C3 via USB (data cable), then click the button below.
+    If it fails to connect, hold <strong>BOOT</strong>, tap <strong>RESET</strong>, then try again.
+  </p>
+
+  <esp-web-install-button manifest="manifest.json"></esp-web-install-button>
+
+  <script type="module">
+    import "https://unpkg.com/esp-web-tools@9.0.0/dist/web/install-button.js";
+  </script>
+</body>
+</html>
