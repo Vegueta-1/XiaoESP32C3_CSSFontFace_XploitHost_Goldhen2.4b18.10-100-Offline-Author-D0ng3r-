@@ -1,12 +1,16 @@
 {
-  "name": "XIAO ESP32-C3 CSSFontFace Exploit Host (GoldHen 2.4b18.10)",
+  "name": "XIAO ESP32-C3 CSSFontFace Exploit Host",
   "version": "2.4b18.10",
-  "build": "XiaoESP32C3_CSSFontFace_XploitHost_Goldhen2.4b18.10",
-  "chipFamily": "ESP32-C3",
-  "parts": [
+  "builds": [
     {
-      "path": "XiaoESP32C3_CSSFontFace_XploitHost_Goldhen2.4b18.10.bin",
-      "offset": 0
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        {
+          "path": "XiaoESP32C3_CSSFontFace_XploitHost_Goldhen2.4b18.10.bin",
+          "offset": 0
+        }
+      ]
     }
   ]
 }
+
