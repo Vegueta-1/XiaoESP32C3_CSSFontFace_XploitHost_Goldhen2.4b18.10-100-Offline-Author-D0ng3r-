@@ -18,3 +18,7 @@ Steps to Use are on the attached pdf CSSFontFace-Exploit Host on the XIAO ESP32-
 and flash using the web flasher link https://vegueta-1.github.io/XiaoESP32C3_CSSFontFace_XploitHost_Goldhen2.4b18.10-100-Offline-Author-D0ng3r-/
 
 Video Guide link https://youtu.be/HzANAEZwjfA
+
+Here are the Original Author project files for y'all which have the index.html, style.css, script.js and cache.Manifest more easily editable.
+- D0ng3r
+https://github.com/May0Need5/XiaoESP32C3-CSSFontFace-Xploithost
