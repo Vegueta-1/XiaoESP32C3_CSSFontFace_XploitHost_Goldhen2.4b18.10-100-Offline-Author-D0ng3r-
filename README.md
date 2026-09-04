@@ -13,3 +13,5 @@ These versions have working exploit + working jailbreak payloads, meaning you ca
 9.60 —  stable
 
 I've hosted the CSS FontFace PS4/PS5 exploit source (as of yesterday) on an offline webserver. Since this exploit doesn't require USB control, the XIAO ESP32‑C3 is perfect for the job. You won't need to type any web address. It's 100% offline and never connects to the internet.
+
+Steps to Use are on the attached pdf CSSFontFace-Exploit Host on the XIAO ESP32-C3 – 100% Offline Author—D0ng3r Guide download and follow the guide
